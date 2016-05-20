@@ -1,6 +1,8 @@
 # integraseModel
 MATLAB files to simulate in vitro experiments of Integrase with or without Reaction Directionality Factors (RDFs)
 
+NOTICE: All files are provided as is without warranty. All files are published under the GNU public license 2.0 (see LICENSE). They are free to be used or modified. If you use these files, please cite our manuscript.
+
 To simulate reaction kinetics for 3 hours (Figs. 5-9 in the manuscript), execute the file "integrase_full.m" in MATLAB.
 
 To simulate the different reactions, use the following initial conditions (for 0.4 µM integrase, 0.8 µM RDF) in line 43 of the file "integrase_full.m":
